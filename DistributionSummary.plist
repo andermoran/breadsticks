@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>breadsticks_v2.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D91F04E4DE12BC0D27E8C4FA2EB6B79DA7B1510C</string>
+				<key>dateExpires</key>
+				<string>2/20/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D91F04E4DE12BC0D27E8C4FA2EB6B79DA7B1510C</string>
+						<key>dateExpires</key>
+						<string>2/20/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>Mapbox.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>V9H9RJKQ77</string>
+						<key>name</key>
+						<string>Ander Moran</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D91F04E4DE12BC0D27E8C4FA2EB6B79DA7B1510C</string>
+						<key>dateExpires</key>
+						<string>2/20/19</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
+					<string>SCLAlertView_Objective_C.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>V9H9RJKQ77</string>
+						<key>name</key>
+						<string>Ander Moran</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V9H9RJKQ77.com.andermoran.breadsticks-v2</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V9H9RJKQ77</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>V9H9RJKQ77.com.andermoran.breadsticks-v2</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>breadsticks_v2.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a323b619-42dd-431a-9236-fd198c9bc9f2</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V9H9RJKQ77</string>
+				<key>name</key>
+				<string>Ander Moran</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
